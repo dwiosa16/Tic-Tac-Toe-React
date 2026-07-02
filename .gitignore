@@ -73,5 +73,5 @@ web_modules/
 .env.*.local
 
 # Vite build output
-dist
+# dist
 dist-ssr
